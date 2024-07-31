@@ -23,7 +23,7 @@
 
 ## Methodology:  
 
-#### 1. Various clustering algorithms, including KMeans, Hierarchical, Affinity Propagation, and DBSCAN, were utilized for asset clustering.
+#### 1. Various clustering algorithms, including KMeans, Hierarchical, Affinity Propagation, and DBSCAN, were utilized for asset clustering. Clustering of assets are done based on returns and volatility of each asset. 
 
 ![Screenshot](images/KMeans-cluster.png) 
 ![Screenshot](images/Hierarchial-cluster.png)
@@ -47,7 +47,11 @@
 
 ![Screenshot](images/piechart.png)   
 
-#### 7. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $15028.38, while the developed trading strategy resulted in a portfolio value of $21961.48. 
+#### 7. Allocation of capital before and after trading for each asset
+
+![Screenshot](images/allocation.png)   
+
+#### 8. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $15028.38, while the developed trading strategy resulted in a portfolio value of $21961.48. 
 
 ![Screenshot](images/comparison.png) 
 
