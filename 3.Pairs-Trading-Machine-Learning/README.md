@@ -35,7 +35,7 @@
 
 ![Screenshot](images/pairs-formed.png)  
 
-#### 4. Plotting top 5 pairs and top 10 pairs outperforming the benchmark were selected for further analysis.
+#### 4. Plotting top 5 pairs and top 10 pairs out of 160 pairs outperforming the benchmark were selected for further analysis.
 
 ![Screenshot](images/performance.png)  
 ![Screenshot](images/selected-pairs.png)  
