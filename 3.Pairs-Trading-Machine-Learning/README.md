@@ -13,7 +13,7 @@
 
 #### 1. On the portfolio constructed using selected tickers, for an initital investment of 10000$, buy-and-hold strategy generated a profit of 20000$ and the proposed trading strategy generated a profit of 20000$
 
-![ ](images/comparison.png) 
+![](images/comparison.png) 
 
 #### 2. Statistics of the portfolio for buy-and-hold strategy and proposed trading strategy
 
