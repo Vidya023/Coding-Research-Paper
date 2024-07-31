@@ -11,16 +11,44 @@
 
 ## Results:
 
-#### 1. On the portfolio constructed using selected tickers, for an initital investment of 10000$, buy-and-hold strategy generated a profit of 20000$ and the proposed trading strategy generated a profit of 20000$
+#### 1. On the portfolio constructed using selected tickers, for an initital investment of $10000, buy-and-hold strategy generated a profit of $15028.38$ and the proposed trading strategy generated a profit of $21961.48
 
 ![](images/comparison.png) 
+<br>
 
 #### 2. Statistics of the portfolio for buy-and-hold strategy and proposed trading strategy
+<br>
 
 ![Screenshot](images/stats.png) 
 
 ## Methodology:  
 
-#### 1.  
+#### 1. Various clustering algorithms, including KMeans, Hierarchical, Affinity Propagation, and DBSCAN, were utilized for asset clustering.
 
-![Screenshot](images/affinity.png) 
+![Screenshot](images/KMeans-cluster.png) 
+![Screenshot](images/Hierarchial-cluster.png)
+![Screenshot](images/affinity.png)
+![Screenshot](images/DBSCAN-cluster.png) 
+
+#### 2. Based on the silhouette score and the number of clusters formed, `Affinity Propagation` was chosen as the optimal clustering method.
+
+#### 3. From the assets in the clusters formed by Affinity Propagation, 705 pairs successfully passed the cointegration test.
+
+![Screenshot](images/pairs-formed.png)  
+
+#### 4. Plotting top 5 pairs and top 10 pairs outperforming the benchmark were selected for further analysis.
+
+![Screenshot](images/performance.png)  
+![Screenshot](images/selected-pairs.png)  
+
+#### 5. From each of these pairs, one asset was chosen based on its expected returns.
+
+#### 6. A portfolio was constructed using the selected assets' data from 2015 to 2021, with asset weights determined by Markowitz Portfolio Theory.
+
+![Screenshot](images/piechart.png)   
+
+#### 7. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $15028.38, while the developed trading strategy resulted in a portfolio value of $21961.48. 
+
+![Screenshot](images/comparison.png) 
+
+
