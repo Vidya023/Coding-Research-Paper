@@ -6,11 +6,11 @@
 
 #### 1. Weights of assets in a portfolio proposed by Hybrid Model and Markowitz Model
 
-![Screenshot]('pie.png) 
+![Screenshot]('images/pie.png) 
 
 #### 2. Comparing Returns and Value at Risk(VaR) of both portfolios after 10 days 
 
-![Screenshot]('result.png) 
+![Screenshot]('images/result.png) 
 
 ## Methodology
 
