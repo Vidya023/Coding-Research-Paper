@@ -12,7 +12,7 @@
 
 #### 1. On the portfolio constructed using selected tickers, for an initital investment of $10000, `Buy-and-Hold strategy` generated a profit of $8816.68 and the proposed `Trading strategy` generated a profit of $16402.27 
 
-![](images/comparison2.png) 
+![](images/comparison.png) 
 <br>
 
 #### 2. Statistics of the portfolio for buy-and-hold strategy and proposed trading strategy
@@ -50,6 +50,6 @@
 
 #### 7. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $8816.68, while the developed trading strategy resulted in a portfolio value of $16402.27. 
 
-![Screenshot](images/comparison2.png) 
+![Screenshot](images/comparison.png) 
 
 
