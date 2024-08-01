@@ -10,7 +10,7 @@
 
 ## Results:
 
-#### 1. On the portfolio constructed using selected tickers, for an initital investment of $10000, `Buy-and-Hold strategy` generated a profit of $15028.38 and the proposed `Trading strategy` generated a profit of $21961.48
+#### 1. On the portfolio constructed using selected tickers, for an initital investment of $10000, `Buy-and-Hold strategy` generated a profit of $8816.68 and the proposed `Trading strategy` generated a profit of $16402.27 
 
 ![](images/comparison.png) 
 <br>
@@ -40,17 +40,15 @@
 ![Screenshot](images/performance.png)  
 ![Screenshot](images/selected-pairs.png)  
 
-#### 5. From each of these pairs, one asset was chosen based on its expected returns.
-
-#### 6. A portfolio was constructed using the selected assets' data from 2015 to 2021, with asset weights determined by Markowitz Portfolio Theory.
+#### 5. A portfolio was constructed using the selected assets' data from 2015 to 2021, with asset weights determined by Markowitz Portfolio Theory.
 
 ![Screenshot](images/piechart.png)   
 
-#### 7. Allocation of capital before and after trading for each asset
+#### 6. Allocation of capital before and after trading for each asset
 
 ![Screenshot](images/allocation.png)   
 
-#### 8. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $15028.38, while the developed trading strategy resulted in a portfolio value of $21961.48. 
+#### 7. For an investment of $10,000 in this portfolio over approximately two years (2022-2024), a buy-and-hold strategy generated a portfolio value of $8816.68, while the developed trading strategy resulted in a portfolio value of $16402.27. 
 
 ![Screenshot](images/comparison.png) 
 
